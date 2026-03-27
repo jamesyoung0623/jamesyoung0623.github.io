@@ -7,7 +7,7 @@ subtitle: PhD Student @ Department of Computer Science and Information Engineeri
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Email: f10942093 [at]</p>
     <p>ntu [dot] edu [dot] tw</p>

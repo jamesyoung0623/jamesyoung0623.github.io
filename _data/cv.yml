@@ -3,33 +3,13 @@
   contents:
     - title: Ph.D. Student, Department of Computer Science and Information Engineering
       institution: National Taiwan University (NTU), Taipei, Taiwan
-      year: Jan. 2024-now
+      year: 
     - title: Master's Program, Graduate Institute of Communication Engineering
       institution: National Taiwan University (NTU), Taipei, Taiwan
-      year: Sep. 2021-Jan. 2024
+      year: Jan. 2024
     - title: B.S., Department of Electrical Engineering
       institution: National Taiwan University (NTU), Taipei, Taiwan
-      year: Sep. 2017-Jun. 2021
-
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: Graduate Student Research Assistant
-      institution: Computer Vision and Machine Learning Lab, Academia Sinica, Taipei, Taiwan
-      year: Advisor: Prof. Tyng-Luh Liu
-      description:
-        - Synthetic Image Detection
-        - Information Bottleneck
-        - Continual Learning
-        - Neural Radiance Fields and 3D Gaussian Splatting
-        - 3D Reconstruction and Generation
-    - title: Graduate Student Research Assistant
-      institution: Communication and Multimedia Lab, NTU, Taipei, Taiwan
-      year: Advisor: Prof. Yung-Yu Chuang
-      description:
-        - Collaborated on industry-academia projects between NTU and ASUS
-        - Semantic Segmentation
-        - Image Denoising
+      year: Jun. 2021
 
 - title: Publications
   type: time_table
@@ -57,19 +37,19 @@
   contents:
     - title: Research Assistant
       institution: Academia Sinica, Institute of Information Science
-      year: Jun. 2023-Aug. 2023
+      year: Aug. 2023
       description:
         - Conducted research on learning human NeRF avatars via pose correction
         - Accelerated Human NeRF avatar training and inference by combining instant-NGP
     - title: Research Intern
       institution: Microsoft Taiwan, Department of Computer Vision
-      year: Aug. 2021-Feb. 2023
+      year: Feb. 2023
       description:
         - Researched aggregation algorithms for zero-shot face anti-spoofing with linguistic model features
         - Conducted penetration tests on anti-spoofing systems; identified weaknesses and proposed improvement directions
-    - title: Teaching Assistant (Courses: Linear Algebra, Data Structures)
+    - title: "Teaching Assistant (Courses: Linear Algebra, Data Structures)"
       institution: National Taiwan University, Department of Electrical Engineering
-      year: Mar. 2022-Dec. 2022
+      year: Dec. 2022
       description:
         - Volunteered as a lead teaching assistant to give back to the student community
         - Supported students who were unfamiliar with programming and helped them catch up with the class
